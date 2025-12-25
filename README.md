@@ -4,3 +4,4 @@
 - The `.pxd` file is the open-source design for the watermark. It may be continuously updated as future events require.
 - If you find the current PoseMario unusable, these might solve the accuracy problems.
 - Download and drag to your PoseMario folder, or git clone and move
+- MoveNet Lightning is observed to have negligible accuracy and performance difference compared to MoveNet Thunder
